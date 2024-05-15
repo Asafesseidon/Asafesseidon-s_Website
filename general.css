@@ -24,6 +24,8 @@ div{
 #menu {
   position: sticky;
   top: 1em;
+  left: 1em;
+  z-index: 10;
 }
 .offcanvas-header{
   background-color:rgb(var(--secondary-rgb)/75%);
